@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RETOM-21>
+  <Info Tester="" Device="" Protection="" Substation="" Organization="" DateTime="2023-05-31T11:11:03.1918886+05:00" DeviceNumber="6730" SoftwareVersion="2.1.0.0" />
+  <TransCur>
+    <Collection>
+      <Point_0 Amper="0.002461067" Volt="5.96889" />
+      <Point_1 Amper="0.00311471" Volt="9.013754" />
+      <Point_2 Amper="0.00375604" Volt="11.94349" />
+      <Point_3 Amper="0.00442227" Volt="14.84172" />
+      <Point_4 Amper="0.005019953" Volt="17.73781" />
+      <Point_5 Amper="0.005672899" Volt="20.6293" />
+      <Point_6 Amper="0.006314524" Volt="23.53317" />
+      <Point_7 Amper="0.006982305" Volt="26.42839" />
+      <Point_8 Amper="0.007663937" Volt="29.3338" />
+      <Point_9 Amper="0.008386589" Volt="32.22803" />
+      <Point_10 Amper="0.009110247" Volt="35.11702" />
+      <Point_11 Amper="0.009885853" Volt="38.01807" />
+      <Point_12 Amper="0.01064357" Volt="40.90281" />
+      <Point_13 Amper="0.01145686" Volt="43.81479" />
+      <Point_14 Amper="0.01229226" Volt="46.70793" />
+      <Point_15 Amper="0.01308777" Volt="49.61462" />
+      <Point_16 Amper="0.01382577" Volt="52.52055" />
+      <Point_17 Amper="0.01458443" Volt="55.38277" />
+      <Point_18 Amper="0.01534295" Volt="58.29234" />
+      <Point_19 Amper="0.01609013" Volt="61.16841" />
+      <Point_20 Amper="0.01681788" Volt="64.08939" />
+      <Point_21 Amper="0.01740865" Volt="67.0042" />
+      <Point_22 Amper="0.01801602" Volt="69.88486" />
+      <Point_23 Amper="0.01867079" Volt="72.78632" />
+      <Point_24 Amper="0.0187737" Volt="78.53223" />
+      <Point_25 Amper="0.01930152" Volt="75.66739" />
+      <Point_26 Amper="0.01961192" Volt="81.49969" />
+      <Point_27 Amper="0.02048928" Volt="84.44595" />
+      <Point_28 Amper="0.02136995" Volt="87.33554" />
+      <Point_29 Amper="0.02226084" Volt="90.16753" />
+      <Point_30 Amper="0.02326462" Volt="93.0834" />
+      <Point_31 Amper="0.02420188" Volt="95.92905" />
+      <Point_32 Amper="0.02533933" Volt="98.89801" />
+      <Point_33 Amper="0.02661093" Volt="101.8032" />
+      <Point_34 Amper="0.02792006" Volt="104.6949" />
+      <Point_35 Amper="0.02934992" Volt="107.6084" />
+      <Point_36 Amper="0.03088707" Volt="110.4875" />
+      <Point_37 Amper="0.03259522" Volt="113.4496" />
+      <Point_38 Amper="0.03449886" Volt="116.25" />
+      <Point_39 Amper="0.03655488" Volt="119.1722" />
+      <Point_40 Amper="0.03870165" Volt="122.0269" />
+      <Point_41 Amper="0.04100884" Volt="124.9536" />
+      <Point_42 Amper="0.04356221" Volt="127.9063" />
+      <Point_43 Amper="0.04630309" Volt="130.761" />
+      <Point_44 Amper="0.04919038" Volt="133.6631" />
+      <Point_45 Amper="0.05215445" Volt="136.5334" />
+      <Point_46 Amper="0.05541344" Volt="139.4233" />
+      <Point_47 Amper="0.05896527" Volt="142.3356" />
+      <Point_48 Amper="0.06272566" Volt="145.2099" />
+      <Point_49 Amper="0.06675016" Volt="148.1525" />
+      <Point_50 Amper="0.07104366" Volt="150.9913" />
+      <Point_51 Amper="0.07570858" Volt="153.9" />
+      <Point_52 Amper="0.08064815" Volt="156.8213" />
+      <Point_53 Amper="0.08615103" Volt="159.7304" />
+      <Point_54 Amper="0.09205902" Volt="162.6195" />
+      <Point_55 Amper="0.09864" Volt="165.5402" />
+      <Point_56 Amper="0.1056014" Volt="168.3588" />
+      <Point_57 Amper="0.1134144" Volt="171.2298" />
+      <Point_58 Amper="0.1223225" Volt="174.1179" />
+      <Point_59 Amper="0.1323858" Volt="177.071" />
+      <Point_60 Amper="0.1437655" Volt="180.0147" />
+      <Point_61 Amper="0.1562918" Volt="182.8486" />
+      <Point_62 Amper="0.1703008" Volt="185.6955" />
+      <Point_63 Amper="0.1867171" Volt="188.5577" />
+      <Point_64 Amper="0.2057128" Volt="191.4624" />
+      <Point_65 Amper="0.2282955" Volt="194.416" />
+      <Point_66 Amper="0.2542661" Volt="197.2791" />
+      <Point_67 Amper="0.2857928" Volt="200.0967" />
+      <Point_68 Amper="0.3231277" Volt="202.9531" />
+      <Point_69 Amper="0.3692015" Volt="205.7473" />
+      <Point_70 Amper="0.4296073" Volt="208.523" />
+      <Point_71 Amper="0.5125347" Volt="211.2207" />
+      <Point_72 Amper="0.6405826" Volt="213.8975" />
+      <Point_73 Amper="0.876895" Volt="216.1497" />
+      <Point_74 Amper="1.316799" Volt="217.815" />
+      <Point_75 Amper="1.911283" Volt="219.1487" />
+      <Point_76 Amper="2.556623" Volt="220.2123" />
+      <Point_77 Amper="3.207307" Volt="221.2543" />
+      <Point_78 Amper="3.876449" Volt="222.1586" />
+      <Point_79 Amper="4.529541" Volt="222.9996" />
+      <Point_80 Amper="5.153788" Volt="223.7114" />
+      <Point_81 Amper="5.748911" Volt="224.4555" />
+    </Collection>
+    <Collection_2>
+      <AddPoint_0 AmperAdd="0,2 А" VoltAdd="190,63 В" />
+      <AddPoint_1 AmperAdd="0,5 А" VoltAdd="210,87 В" />
+      <AddPoint_2 AmperAdd="1 А" VoltAdd="216,77 В" />
+      <AddPoint_3 AmperAdd="2 А" VoltAdd="219,31 В" />
+      <AddPoint_4 AmperAdd="3 А" VoltAdd="220,93 В" />
+      <AddPoint_5 AmperAdd="5 А" VoltAdd="223,53 В" />
+      <AddPoint_6 AmperAdd="" VoltAdd="" />
+    </Collection_2>
+  </TransCur>
+</RETOM-21>

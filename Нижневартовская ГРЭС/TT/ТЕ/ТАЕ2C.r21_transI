@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RETOM-21>
+  <Info Tester="" Device="" Protection="" Substation="" Organization="" DateTime="2023-05-29T14:14:25.934297+05:00" DeviceNumber="6730" SoftwareVersion="2.1.0.0" />
+  <TransCur>
+    <Collection>
+      <Point_0 Amper="0.002800872" Volt="0.007571138" />
+      <Point_1 Amper="0.03209975" Volt="0.1617119" />
+      <Point_2 Amper="0.04823565" Volt="0.2831725" />
+      <Point_3 Amper="0.06275255" Volt="0.4124711" />
+      <Point_4 Amper="0.07564835" Volt="0.5330526" />
+      <Point_5 Amper="0.08720803" Volt="0.6529645" />
+      <Point_6 Amper="0.09785954" Volt="0.7717944" />
+      <Point_7 Amper="0.1083318" Volt="0.8972503" />
+      <Point_8 Amper="0.117656" Volt="1.015426" />
+      <Point_9 Amper="0.127069" Volt="1.139886" />
+      <Point_10 Amper="0.1359579" Volt="1.260714" />
+      <Point_11 Amper="0.1442507" Volt="1.375205" />
+      <Point_12 Amper="0.1528725" Volt="1.495743" />
+      <Point_13 Amper="0.161539" Volt="1.616718" />
+      <Point_14 Amper="0.1700988" Volt="1.734628" />
+      <Point_15 Amper="0.179551" Volt="1.861945" />
+      <Point_16 Amper="0.1886968" Volt="1.980538" />
+      <Point_17 Amper="0.1982929" Volt="2.098314" />
+      <Point_18 Amper="0.2087208" Volt="2.216356" />
+      <Point_19 Amper="0.221148" Volt="2.341746" />
+      <Point_20 Amper="0.2342684" Volt="2.455387" />
+      <Point_21 Amper="0.251152" Volt="2.573902" />
+      <Point_22 Amper="0.2728149" Volt="2.690771" />
+      <Point_23 Amper="0.3050698" Volt="2.808986" />
+      <Point_24 Amper="0.3680279" Volt="2.937308" />
+      <Point_25 Amper="0.4847356" Volt="3.05103" />
+      <Point_26 Amper="0.7212592" Volt="3.154905" />
+      <Point_27 Amper="1.33178" Volt="3.264647" />
+      <Point_28 Amper="2.245338" Volt="3.344776" />
+      <Point_29 Amper="3.235293" Volt="3.411771" />
+      <Point_30 Amper="4.2521" Volt="3.476585" />
+      <Point_31 Amper="5.125327" Volt="3.532104" />
+      <Point_32 Amper="5.955403" Volt="3.584295" />
+      <Point_33 Amper="6.821258" Volt="3.640052" />
+      <Point_34 Amper="7.686765" Volt="3.695692" />
+    </Collection>
+    <Collection_2>
+      <AddPoint_0 AmperAdd="0,2 А" VoltAdd="2,12 В" />
+      <AddPoint_1 AmperAdd="0,5 А" VoltAdd="3,06 В" />
+      <AddPoint_2 AmperAdd="1 А" VoltAdd="3,22 В" />
+      <AddPoint_3 AmperAdd="2 А" VoltAdd="3,33 В" />
+      <AddPoint_4 AmperAdd="3 А" VoltAdd="3,4 В" />
+      <AddPoint_5 AmperAdd="5 А" VoltAdd="3,52 В" />
+      <AddPoint_6 AmperAdd="" VoltAdd="" />
+    </Collection_2>
+  </TransCur>
+</RETOM-21>
